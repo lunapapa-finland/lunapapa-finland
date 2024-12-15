@@ -1,17 +1,52 @@
 # 🌙 Lunapapa's GitHub Profile
 
-Hello, I'm Lunapapa, an enthusiastic Erasmus Mundus student currently immersed in the [EDISS program](https://www.master-ediss.eu/) at [Abo Akademi University](https://www.abo.fi/en/). As a part-time research assistant in a maritime robotics program under the supervision of [Sebastien Lafond](https://research.abo.fi/en/persons/sebastien-lafond), I am dedicated to advancing my knowledge in this fascinating field.
+I am a versatile professional with a passion for tackling complex challenges across diverse industries. With a strong foundation in **technology, business development, and entrepreneurship**, I excel at bridging the gap between innovative ideas and practical solutions.
+
+Over the years, I have cultivated a unique skill set that spans **technical expertise, strategic thinking, and relationship-building**. My experience ranges from driving innovation in **IT and smart manufacturing** to leading entrepreneurial ventures and fostering partnerships in **global markets**.
+
+What defines me is my ability to **adapt quickly, think critically, and deliver results** in dynamic environments. I thrive at the intersection of **technology and business**, using my analytical mindset and collaborative approach to create impactful solutions and foster meaningful connections.
 
 ## 🎓 Academic and Professional Journey
 
-I kickstarted my academic journey by earning my initial master's degree in Information Technology with distinction from [Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/comp/) in 2013. Following this accomplishment, I ventured into the corporate landscape, contributing my skills to renowned multinational corporations. Notable roles include serving as a [CoE](https://support.sap.com/en/offerings-programs/ccoe.html) and Field consultant at [SAP](https://www.sap.com/) from 2013 to 2016. Subsequently, I took on the responsibilities of an industrial consulting manager at [Lenovo](https://www.lenovo.com/ao/en/about/our-businesses/capital-incubator-group) from 2016 to 2018. In 2018, I co-founded an e-commerce startup in the Philippines. However, by the end of 2018, my focus shifted to the significant role of raising my daughter Luna, who is now two years old.
+Currently, I am a **Doctoral Researcher** at [Åbo Akademi University](https://www.abo.fi/en/) in the **Department of Information Technology**. My research focuses on advancing the field of **Search-Based Software Engineering (SBSE)** and developing cutting-edge testing methodologies for **cyber-physical systems (CPS)**.
 
-Recently, I made the decision to re-enter academia. Since the autumn of 2023, I have been diligently pursuing my second master's degree in the [EDISS program](https://www.master-ediss.eu/). The first year of this endeavor is being completed at [Abo Akademi University](https://www.abo.fi/en/) in Finland, with the second year scheduled at [University of L'Aquila](https://www.univaq.it/en/) in Italy.
+### **Key Research Areas:**
+- **Search-Based Software Engineering (SBSE):** Applying optimization algorithms to improve software testing, including **test case selection** and prioritization for complex CPS.
+- **Falsifying Complex CPS:** Identifying vulnerabilities and ensuring robustness in systems by generating targeted test cases to explore edge cases and failure scenarios.
+- **Distributed Testing:** Enhancing scalability and efficiency of testing frameworks, particularly for **systems under test (SUT)**.
+- **Automated Test Generation and Execution:** Designing tools and algorithms to streamline test case generation and execution for scalable and efficient workflows.
 
-## 💼 Expertise
+## 💼 Capabilities and Skills
 
-With over a decade of professional experience, my expertise spans [Business Management](#), [IT](#), and [Data consulting](#). I possess extensive knowledge in SAP product domains, covering areas such as [Product Lifecycle Management](https://www.sap.com/products/scm/plm-r-d-engineering.html), [Product Planning](https://www.sap.com/products/erp.html), [Manufacturing Execution](https://www.sap.com/finland/products/scm/execution-mes/what-is-mes.html), and [Master Data Management](https://www.sap.com/finland/products/technology-platform/master-data-governance/what-is-mdm.html).
+### **Software Engineering & Research**
+- **Optimization Algorithms:** Expertise in designing and applying optimization techniques for software engineering tasks.
+- **Testing Frameworks:** Development and implementation of automated testing tools for complex systems.
+- **Cyber-Physical Systems (CPS):** Specializing in robust testing, falsification techniques, and scalability solutions.
+- **Distributed Systems:** Knowledge in distributed frameworks for testing scalability and performance.
 
-Moreover, I am proficient in guiding projects from conceptualization to implementation, particularly within the realm of [Industry 4.0](https://en.wikipedia.org/wiki/Fourth_Industrial_Revolution#:~:text=Industry%204.0%20integrates%20processes%20vertically,all%20key%20value%20chain%20partners.). In the field of [Data Science](#), I am well-versed in tasks ranging from Exploratory Data Analysis to the implementation of machine learning algorithms and deep learning techniques such as CNNs and GANs. Regarding [Robotics](#), I am currently delving into [ROS2](https://docs.ros.org/en/iron/index.html).
+### **Data Science & AI**
+- **Machine Learning & Deep Learning:** Proficiency in building models using CNNs, GANs, and other state-of-the-art techniques.
+- **Data Analysis:** Skilled in Exploratory Data Analysis (EDA) and interpreting large datasets to derive actionable insights.
+- **Implementation Tools:** Experienced with Python, TensorFlow, PyTorch, and ROS2 for robotics applications.
 
-Feel free to explore my repositories and connect with me on [My Portal](https://lunapapa-finland.github.io). I'm always open to collaboration and learning from the vibrant GitHub community. Let's build something amazing together! 🚀
+### **Smart Manufacturing & Industry 4.0**
+- **End-to-End Project Management:** From ideation to implementation for smart manufacturing solutions.
+- **SAP Domains:** Proficient in [Product Lifecycle Management](https://www.sap.com/products/scm/plm-r-d-engineering.html), [Product Planning](https://www.sap.com/products/erp.html), [Manufacturing Execution](https://www.sap.com/finland/products/scm/execution-mes/what-is-mes.html), and [Master Data Management](https://www.sap.com/finland/products/technology-platform/master-data-governance/what-is-mdm.html).
+- **Industry 4.0 Solutions:** Focused on integrating technology solutions into industrial processes to optimize efficiency.
+
+### **Robotics & Automation**
+- **Robotics Development:** Exploring robotic systems using **ROS2** for simulation, control, and real-world applications.
+- **Autonomous Systems:** Working on developing autonomous solutions for maritime and industrial robotics.
+
+## 📈 Tools & Technologies
+- **Programming Languages:** Python, C++, Java
+- **AI & ML Tools:** TensorFlow, PyTorch, scikit-learn
+- **Robotics:** ROS2, Gazebo, OpenCV
+- **Data Analysis:** Pandas, NumPy, Matplotlib
+- **Industry Platforms:** SAP, GitHub, Docker
+
+## 💪 Let's Collaborate!
+
+I thrive on opportunities to create impactful solutions, solve challenging problems, and learn from innovative collaborators. Whether you're interested in software engineering, robotics, or data-driven solutions, feel free to reach out!
+
+Explore my repositories and connect with me on [My Portal](https://lunapapa.eu). Let's build something amazing together! 🚀
